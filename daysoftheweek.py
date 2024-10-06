@@ -1,3 +1,4 @@
+#This decides what breakfast for each day of the week
 DaysOfTheWeek = ["Upma", "Pongal", "Pasta", "Idly", "Dosa", "Idiappam", "Cornflakes"]
 Today = "Thursday"
 if Today == "Monday":
