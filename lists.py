@@ -13,3 +13,7 @@ Fruits.append("Apple")
 print(Fruits)
 Fruits.remove("Guava")
 print(Fruits)
+del Fruits[2]
+print(Fruits)
+Fruits[3:3] = ["Apple"]
+print(Fruits)
