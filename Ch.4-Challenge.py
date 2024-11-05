@@ -1,3 +1,4 @@
+#This is an adventure game that involves choices and the player's input and a lot of other code.
 Name = "Pranitha"
 print(f"Welcome to {Name}'s Choose Your Own Adventure Game! As you follow the story, you will be presented with choices that decide your fate. Take care and choose wisely! Let's begin.")
 print("You find yourself in a dark room with 2 doors. The first door is red, the second is white.")
